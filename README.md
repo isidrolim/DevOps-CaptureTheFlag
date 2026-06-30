@@ -58,13 +58,21 @@ For every challenge, I follow the same process:
 
 ```text
 DevOps-CTF/
-├── README.md
-├── Set-000-Foundations/
-├── Logs/
-├── Linux/
-├── Docker/
-├── CI-CD/
-└── AWS-Emulation/
+ README.md
+ Local Lab Readiness
+ The Missing Release Symlink
+ Permission Drift
+ Runaway Logger
+ The Cron Job That Never Runs
+ Port 8080 Is Taken
+ Logrotate Misfire
+ Find the 500 Spike
+ Disk Full from Old Deploy Artifacts
+ Nginx 502: The Upstream That Moved
+ Linux/
+ Docker/
+ CI-CD/
+ AWS-Emulation/
 ```
 
 The structure may grow as more challenges are completed.
